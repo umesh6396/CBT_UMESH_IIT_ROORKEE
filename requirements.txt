@@ -1,0 +1,12 @@
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+trl
+vaderSentiment
+gradio
+scikit-learn
+chromadb
+sentence-transformers
