@@ -1,0 +1,6 @@
+urls = {
+    "verywellmind": "https://www.verywellmind.com/what-is-cognitive-behavioral-therapy-2795747",
+    "nhs": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt",
+    "apa": "https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral",
+    "psychologytoday": "https://www.psychologytoday.com/us/therapy-types/cognitive-behavioral-therapy"
+}
